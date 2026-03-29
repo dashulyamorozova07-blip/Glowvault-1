@@ -511,19 +511,19 @@ h2 {
 .hint-modal {
   width: 40vw;
   height: 20vw;
-  background: url('../images/tooltip-1.png') no-repeat center / contain;
+  background: url('../images/Tooltip-1.png') no-repeat center / contain;
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 3vw 4vw;
   text-align: center;
   color: #b5aaf0;
-  font-size: 1.6vw;
   position: relative;
 }
 
 .hint-modal p {
   font-family: 'Unbounded';
+  color: #b5aaf0;
   font-size: 1.4vw;
   line-height: 1.7vw;
   font-weight: 400;
@@ -532,7 +532,7 @@ h2 {
 .help-btn {
   position: absolute;
   right: 4.3vw;
-  bottom: 18.2vw;
+  bottom: 12.2vw;
   width: 5.365vw;
   height: 5.365vw;
   border: 0.313vw solid #ffffff;
