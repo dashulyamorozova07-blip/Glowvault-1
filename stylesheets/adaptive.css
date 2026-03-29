@@ -14,7 +14,9 @@
     color: #b7abf1;
     margin-top: 0.01vw;
   }
-
+  .speech p {
+    width: 16vw;
+  }
   .section-2 {
     height: 57.98vw;
     background-image: url('../images/background-2.png');
@@ -845,6 +847,7 @@
     font-weight: 600;
     line-height: 1.2;
     padding: 0vw 10vw 0vw;
+    width: auto;
   }
   .speech__btn {
     position: absolute;
