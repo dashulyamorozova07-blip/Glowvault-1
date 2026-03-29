@@ -862,6 +862,9 @@ img.piece {
   flex-direction: column;
 }
 
+.section-5 .help-btn {
+  bottom: 19vw;
+}
 .boxes {
   margin-top: 16vw;
   display: grid;
